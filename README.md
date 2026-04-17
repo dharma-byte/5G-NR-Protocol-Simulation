@@ -63,7 +63,7 @@ cd 5G-NR-Protocol-Simulation
 python main.py
 
 
-### Sample Output
+## Sample Output
 [INFO] Starting 5G Simulation
 [INFO] [PDCP] Processing data: HELLO_5G_NETWORK_SIMULATION
 [INFO] [RLC] Segmenting packet
